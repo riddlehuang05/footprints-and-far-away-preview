@@ -1,0 +1,26 @@
+[
+  {
+    "file": "footprints-display.woff2",
+    "family": "Footprints Display",
+    "upstream": "NotoSerifCJKsc-Light.otf",
+    "source": "https://github.com/notofonts/noto-cjk",
+    "weight": 300,
+    "license": "NotoSerif-LICENSE.txt",
+    "bytes": 91528,
+    "upstream_sha256": "7da07efb309a89b156090848aab55d9dc57f15b08387b51184b08b89501a382c",
+    "sha256": "713e48de61b6f72e4105ea4e1026823718ccd744ae4e0329c2b94b0ee225620b",
+    "missing_chinese_glyphs": []
+  },
+  {
+    "file": "footprints-literary.woff2",
+    "family": "Footprints Literary",
+    "upstream": "ZhuqueFangsong-Regular.ttf",
+    "source": "https://github.com/TrionesType/zhuque/releases/tag/v0.212",
+    "weight": 400,
+    "license": "Zhuque-LICENSE.txt",
+    "bytes": 62836,
+    "upstream_sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4",
+    "sha256": "177718749f4d628379198e0175096725a5faf8ed305989b8cc82fffc404fbd30",
+    "missing_chinese_glyphs": []
+  }
+]
