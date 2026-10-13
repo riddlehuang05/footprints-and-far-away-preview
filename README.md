@@ -1,14 +1,16 @@
-# 足迹与远方 · 第0幕与第1幕预览
+# 足迹与远方 · 沉浸式预览
 
-这是可直接部署到 GitHub Pages 的网页发布包。包含第0幕、原始沉浸式第1幕和第2幕入口，保留三维路径、鼠标牵引、拖拽反馈、两种汇聚运动、原版字体和排版。
+这是可直接部署到 GitHub Pages 的网页发布包。首页保留第0幕、原始沉浸式第1幕和第2幕入口；第三幕以独立页面接入，保留原有互动、字体与影像。
 
 预览地址：https://riddlehuang05.github.io/footprints-and-far-away-preview/
+
+第三幕直达：https://riddlehuang05.github.io/footprints-and-far-away-preview/page3.html
 
 ## GitHub Pages 设置
 
 进入仓库 Settings → Pages，选择 Deploy from a branch，分支选择 `main`，目录选择 `/ (root)`。
 
-本仓库保存静态发布文件，源码在团队项目 main 分支中维护。网页不依赖图片素材；字体、字体来源记录与许可证随发布包一并保留。
+本仓库保存静态发布文件，源码在团队项目 main 分支中维护。第三幕所需的静态资源位于 `assets/page3/`；字体、字体来源记录与许可证随发布包一并保留。
 
 ## 字体
 
