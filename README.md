@@ -1,8 +1,10 @@
 # 足迹与远方 · 沉浸式预览
 
-这是可直接部署到 GitHub Pages 的网页发布包。首页保留第0幕、原始沉浸式第1幕和第2幕入口；第三幕以独立页面接入，保留原有互动、字体与影像。
+这是可直接部署到 GitHub Pages 的网页发布包。首页保留第0幕与原始沉浸式第1幕；第二幕和第三幕均可独立直达，保留各自的互动、字体与影像。
 
 预览地址：https://riddlehuang05.github.io/footprints-and-far-away-preview/
+
+第二幕直达：https://riddlehuang05.github.io/footprints-and-far-away-preview/page2/
 
 第三幕直达：https://riddlehuang05.github.io/footprints-and-far-away-preview/page3.html
 
